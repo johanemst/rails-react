@@ -96,4 +96,4 @@ License
 
 Troubleshooting
 -------
- Please create an [issue](https://github.com/tsurupin/portfolio/issues).
+ Please create an [issue](https://github.com/johanemst/rails-react/issues).
